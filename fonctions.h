@@ -1,3 +1,6 @@
+#ifndef _FONCTIONS_H_
+#define _FONCTIONS_H_
+
 int x(int t[15][15]);
 
 int y(int t[15][15]);
@@ -16,3 +19,4 @@ int compareChaines(const char *chaine1, const char *chaine2);
 
 void aff_position_approximative(int t[15][15]);
 
+#endif

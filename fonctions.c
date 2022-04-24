@@ -1,4 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
 #include "conio.h"
+#include "fonctions.h"
 
 int x(int t[15][15])
 {
